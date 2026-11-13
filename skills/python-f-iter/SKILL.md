@@ -1,4 +1,3 @@
-```markdown
 ---
 name: python-f-iter
 description: Efficiently generate, combine, sequence, and chunk iterable data using Python's itertools and toolz libraries. Use when users need to handle infinite sequences, Cartesian products, flattening nested structures, chunking data, or windowed iterations.
